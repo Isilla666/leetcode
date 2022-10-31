@@ -1,5 +1,5 @@
 using System.Diagnostics;
-
+//https://leetcode.com/problems/two-sum/
 public class Solution1 
 {
     public static void main()

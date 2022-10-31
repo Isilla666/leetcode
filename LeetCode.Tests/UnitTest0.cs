@@ -23,6 +23,7 @@ public class UnitTest0
         }
         sw.Stop();
         Console.WriteLine(sw.ElapsedTicks);
+        sw.Reset();
         Assert.Pass();
     }
     [Test]

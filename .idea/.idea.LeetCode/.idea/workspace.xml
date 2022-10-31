@@ -7,19 +7,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="361c6fe2-b3fc-4739-9555-ef48fa59a66c" name="Changes" comment="" />
+    <list default="true" id="361c6fe2-b3fc-4739-9555-ef48fa59a66c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.Tests/UnitTest3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.CLI/Solution1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.CLI/Solution2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.Tests/UnitTest0.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.Tests/UnitTest0.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f22aa103071d468cb9b6ad48ed418ee9b1c880/52/d45b8a74/TargetInvocationException.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GrIiSGYLXWpfvZPXyG6LZxjqlx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +40,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,13 +95,52 @@
       <updated>1667140404408</updated>
       <workItem from="1667140407164" duration="31000" />
       <workItem from="1667140471949" duration="4367000" />
+      <workItem from="1667207081357" duration="4270000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -103,15 +150,21 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/LeetCode.CLI/Solution1.cs</url>
           <line>10</line>
-          <properties documentPath="C:\Users\Admin\Desktop\!PROJECTS\leetcode\LeetCode.CLI\Solution1.cs" initialLine="10" containingFunctionPresentation="method 'TwoSum'">
+          <properties documentPath="C:\Users\Admin\Desktop\!PROJECTS\leetcode\LeetCode.CLI\Solution1.cs" initialLine="10" containingFunctionPresentation="method 'TwoSum'" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LeetCode.Tests/UnitTest3.cs</url>
+          <line>40</line>
+          <properties documentPath="C:\Users\Neverov Andrey\Desktop\!My\leetcode\LeetCode.Tests\UnitTest3.cs" initialLine="40" containingFunctionPresentation="method 'Test2'">
             <startOffsets>
-              <option value="193" />
+              <option value="831" />
             </startOffsets>
             <endOffsets>
-              <option value="232" />
+              <option value="871" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
