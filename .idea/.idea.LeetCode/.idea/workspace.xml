@@ -8,12 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="361c6fe2-b3fc-4739-9555-ef48fa59a66c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.Tests/UnitTest3.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.CLI/Solution1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.CLI/Solution2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.Tests/UnitTest0.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.Tests/UnitTest0.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.CLI/Solution4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.Tests/UnitTest4.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +91,7 @@
       <updated>1667140404408</updated>
       <workItem from="1667140407164" duration="31000" />
       <workItem from="1667140471949" duration="4367000" />
-      <workItem from="1667207081357" duration="4270000" />
+      <workItem from="1667207081357" duration="4701000" />
     </task>
     <servers />
   </component>
