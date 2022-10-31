@@ -17,10 +17,10 @@ public class UnitTest0
     {
         var sw = new Stopwatch();
         sw.Start();
-        for(var time = 0; time<1000000; time++)
+        /*for(var time = 0; time<1000000; time++)
         {
             
-        }
+        }*/
         sw.Stop();
         Console.WriteLine(sw.ElapsedTicks);
         sw.Reset();
