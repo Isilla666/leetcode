@@ -2,16 +2,8 @@ using System.Diagnostics;
 
 namespace LeetCode.Tests;
 
-public class UnitTest0
+public class UnitTest0 : UnitTest<Solution0>
 {
-    //private Solution1 _task;
-
-    [SetUp]
-    public void Setup()
-    {
-        //_task = new Solution1();
-    }
-
     [Test]
     public void SpeedTest()
     {
