@@ -9,13 +9,28 @@ public class UnitTest6 : UnitTest<Solution6>
     {
         var sw = new Stopwatch();
         sw.Start();
-        /*for(var time = 0; time<1000000; time++)
+        for(var time = 0; time<1000000; time++)
         {
-            
-        }*/
+            task.MaxProfit(new[] { 7, 1, 5, 3, 6, 4 });
+        }
         sw.Stop();
         Console.WriteLine(sw.ElapsedTicks);
         sw.Reset();
+        sw.Start();
+        for(var time = 0; time<1000000; time++)
+        {
+            task.MaxProfit2(new[] { 7, 1, 5, 3, 6, 4 });
+        }
+        sw.Stop();
+        Console.WriteLine(sw.ElapsedTicks);
+        sw.Reset();
+        sw.Start();
+        for(var time = 0; time<1000000; time++)
+        {
+            task.MaxProfit3(new[] { 7, 1, 5, 3, 6, 4 });
+        }
+        sw.Stop();
+        Console.WriteLine(sw.ElapsedTicks);
         Assert.Pass();
     }
     [Test]
